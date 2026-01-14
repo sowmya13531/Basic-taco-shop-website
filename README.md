@@ -15,7 +15,7 @@ The Taco Shop website provides basic information about the shop, including:
 - Git & GitHub
 
 ## 🚀 Live Demo
-👉 *(Will be updated after deployment)*
+👉 *https://sowmya13531.github.io/Basic-taco-shop-website/*
 
 ## 🎯 Learning Outcomes
 - Understanding HTML structure
